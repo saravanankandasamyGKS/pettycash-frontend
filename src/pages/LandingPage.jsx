@@ -23,7 +23,7 @@ const LandingPage = () => {
           <img src="/images/LandingPage.jpg" alt="Signup" className="img-fluid landing-image" />
         </div>
         <div className="col-md-6 mt-2 landing-primary">
-          <h1 className='text-center laning-heading'>Welcome to RSK PettyCash Manager</h1>
+          <h1 className='text-center laning-heading'>Welcome to SARAVANAN PettyCash Manager</h1>
           <p className='text-white'>
             This petty cash manager is responsible for overseeing and maintaining accurate records of a small fund used for everyday expenses, ensuring proper authorization and documentation of all transactions.
           </p>

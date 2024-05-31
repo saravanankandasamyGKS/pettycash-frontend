@@ -1,13 +1,13 @@
 /*Header.css*/
 .header-container {
-  background: linear-gradient(-45deg, #663324, #760631, #b40bd9);
+  background: linear-gradient(-45deg, #244466, #0d0676, #051749);
   background-size: 400% 400%;
   animation: gradient 5s ease infinite;
   border-radius: 8px;
   height: auto;
 }
 .footer-container {
-  background: linear-gradient(-45deg, #663324, #760631, #b40bd9);
+  background: linear-gradient(-45deg, #0b1424, #15171c, #120c1b);
   background-size: 400% 400%;
   animation: gradient 5s ease infinite;
   border-radius: 8px;
