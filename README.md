@@ -1,7 +1,7 @@
 # pettycash-frontend
 pettycash frontend
 SARAVANAN Pettycash Manager
-The RSK Pettycash Manager is a web-based application designed to help individuals or small businesses manage their petty cash transactions efficiently. The application provides tools for tracking expenses, managing capital, and maintaining financial records.
+The SARAVANAN Pettycash Manager is a web-based application designed to help individuals or small businesses manage their petty cash transactions efficiently. The application provides tools for tracking expenses, managing capital, and maintaining financial records.
 Features
 Expense Management: Users can add, edit, and delete their expenses, including details such as title, category, date, price, quantity, and description.
 Capital Management: Allows users to add and edit their capital amounts, providing an overview of their available funds.
