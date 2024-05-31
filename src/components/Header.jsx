@@ -118,8 +118,8 @@ const Header = () => {
                 <Link className="nav-link" to="/dashboard/user">
                   <img
                     src={avatar}
-                    width="80"
-                    height="40"
+                    width="40"
+                    height="20"
                     alt="Avatar"
                     className="avatar"
                   />
