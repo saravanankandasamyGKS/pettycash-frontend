@@ -1,0 +1,16 @@
+.form-expense {
+  border-radius: 10px;
+  color: whitesmoke;
+  background: rgba(60, 16, 2, 0.738);
+  backdrop-filter: blur(10px);
+}
+.expense-image {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 20px;
+  object-fit: cover;
+}
+
+.description-expense {
+  height: 20vh;
+}
