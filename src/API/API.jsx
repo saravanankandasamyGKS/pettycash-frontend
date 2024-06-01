@@ -1,2 +1,2 @@
 //API.jsx
-export const API="https://pettycash-manager-fullstack.onrender.com/api/"
+export const API="https://pettycash-backend-tb23.onrender.com"
